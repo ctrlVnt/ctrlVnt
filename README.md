@@ -6,7 +6,7 @@ I’m a **Visual Computing student** at **Nantes University**, passionate about 
 
 Here you’ll find the result of hours of coding, sometimes painful 🩸 but always rewarding ❤️ 
 
-![Coding Gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpnM3p2OGZzcmNuYzR6YWF2dWczbGZ1ODh5ZTRxZzZkeXhkd2swYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs81rDuEz9ioJzAA/giphy.gif)
+![A GIF of code being typed with a thank you message](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJiaHdzdXpodHo5bWQ2dDVhbzFybWQxMTBhYmhuMzRpbThzOTRxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)
 
 
 The most popular app I’m currently maintaining :
