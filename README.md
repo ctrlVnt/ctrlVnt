@@ -2,7 +2,7 @@
 
 Welcome to my GitHub 👀 
 
-I’m a **Visual Computing student** at **Nantes University**, passionate about software development, pizza🍕 and open-source projects.  
+I’m a **Visual Computing student** at **Nantes University**, passionate about software development, pizza🍕 and open-source
 
 Here you’ll find the result of hours of coding, sometimes painful 🩸 but always rewarding ❤️ 
 
