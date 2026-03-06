@@ -11,7 +11,7 @@ Here you’ll find the result of hours of coding, sometimes painful 🩸 but alw
 
 The most popular app I’m currently maintaining :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ctrlVnt&repo=Real-YT-Music&theme=tokyonight)](https://github.com/ctrlVnt/Real-YT-Music)
+[![Real YT Music](https://github-readme-stats.vercel.app/api/pin/?username=ctrlVnt&repo=Real-YT-Music&theme=tokyonight)](https://github.com/ctrlVnt/Real-YT-Music)
 
 
 ---
