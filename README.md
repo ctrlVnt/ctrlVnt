@@ -4,7 +4,7 @@ Welcome to my GitHub 👀
 
 I’m a **Visual Computing student** at **Nantes University**, passionate about software development, pizza🍕 and open-source
 
-Here you’ll find the result of hours of coding, sometimes painful 🩸 but always rewarding ❤️ 
+Here you’ll find the result of hours of coding, sometimes painful 💀 but always rewarding ❤️ 
 
 ![A GIF of code being typed with a thank you message](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJiaHdzdXpodHo5bWQ2dDVhbzFybWQxMTBhYmhuMzRpbThzOTRxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)
 
