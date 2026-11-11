@@ -8,12 +8,6 @@ Here you’ll find the result of hours of coding, sometimes painful 💀 but alw
 
 ![A GIF of code being typed with a thank you message](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJiaHdzdXpodHo5bWQ2dDVhbzFybWQxMTBhYmhuMzRpbThzOTRxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)
 
-
-The most popular app I’m currently maintaining :
-
-[![Real YT Music](https://github-readme-stats.vercel.app/api/pin/?username=ctrlVnt&repo=Real-YT-Music&theme=tokyonight)](https://github.com/ctrlVnt/Real-YT-Music)
-
-
 ---
 
 ### Find me here👇
