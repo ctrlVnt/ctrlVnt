@@ -15,3 +15,7 @@ Here you’ll find the result of hours of coding, sometimes painful 💀 but alw
 [![Website](https://img.shields.io/badge/Website-riccardoventurini.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://riccardoventurini.dev)  
 [![Blog](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://v3ntuz.hashnode.dev/)  
 [![Mastodon](https://img.shields.io/badge/Mastodon-@ctrlVnt-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@ctrlVnt)  
+
+<p>
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=ctrlVnt&label=Profile%20views&color=6C63FF&style=for-the-badge"/>
+</p>
